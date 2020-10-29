@@ -1,5 +1,12 @@
 # github-workshop
 
+## Config (1st time only)
+
+```
+git config --global user.name "Your Name"
+git config --global user.email you@example.com
+```
+
 ## Command อื่นๆ
 
 ```
