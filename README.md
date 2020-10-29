@@ -41,3 +41,7 @@ git config --global user.email you@example.com
 3. git commit
 4. git push origin <branch_name>
 ```
+
+## Note
+
+- New repository: `master` branch are now `main`
