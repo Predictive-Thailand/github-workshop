@@ -36,7 +36,7 @@ git config --global user.email you@example.com
 
 ```
 0. git pull origin master
-1. git chekcout -b <branch_name>
+1. git checkout -b <branch_name>
 2. git add xx
 3. git commit
 4. git push origin <branch_name>
